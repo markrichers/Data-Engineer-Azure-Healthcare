@@ -5,6 +5,9 @@ Project will help to analze the intepretive data related to weather & data from 
 
 ![image](https://user-images.githubusercontent.com/50198601/212076629-84d54d78-1730-48c0-bcb2-07bd7c704a01.png)
 
+The azure architect cloud is our data facility mainly help the data working through different method from processing data to making the right connect for data flow. The user product will land will be the Power-Bi and Azure is the backend behind our data facility as high level of infrastructure keep the pipeline running and processing the data from multiple rings. This architect will support a lot of ring user will be able to store their data in cloud and future assist the computer people / other software dev who want to improve and collaborate to make a different level of this data project can be used and ability to connect with another project is highly consider. This part is our main deep tech development progress behind all those data processing. 
+
+## Dashboard with PowerBI. 
 
 ![image](https://user-images.githubusercontent.com/50198601/212074968-466301c6-886f-40d4-8068-5d3188b7293d.png)
 
