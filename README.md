@@ -35,6 +35,6 @@ Future: Dashboard can be iterated depend on the demand of client, and the more g
 
 # Ring Equipment
 
-![image](https://github.com/user-attachments/assets/60556dbb-fb12-4ee5-937a-75393e96d9c0)
+<img src="https://github.com/user-attachments/assets/60556dbb-fb12-4ee5-937a-75393e96d9c0" alt="image" width="300"/>
 
 
