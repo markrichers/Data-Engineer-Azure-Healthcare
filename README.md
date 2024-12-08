@@ -1,8 +1,37 @@
-# Company Moodring
+# 📿 Company Moodring
 
-![image](https://github.com/user-attachments/assets/0347240b-2de3-4999-a66d-073849199949)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0347240b-2de3-4999-a66d-073849199949" alt="Moodring logo" width="200"/>
+</p>
 
-Moodmetric ring is an elegant piece of jewelry made up of biological sensor which can track emotional responses based on electrical conductance of skin. It detects emotional levels and monitors how strong a reaction is, or whether a person is calm or relaxed. The ring processes the data and sends it to the smartphone app which can be used to monitor stress or relaxation levels, and compare to particular events which trigger a strong emotional reactions so people can better manage stress and anxiety.
+---
+
+<p align="center">
+  <b>Track Your Emotions, Manage Stress, Live Balanced</b>
+</p>
+
+<p align="center">
+  <a href="https://moodring.com"><img src="https://img.shields.io/badge/Website-Live-green?style=flat-square&logo=appveyor" alt="Website"></a>
+  <a href="https://github.com/moodring-company"><img src="https://img.shields.io/github/stars/moodring-company/moodring?style=flat-square" alt="GitHub Stars"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License"></a>
+</p>
+
+---
+
+## 🌟 About Moodmetric Ring
+
+The **Moodmetric Ring** is an elegant piece of jewelry equipped with a biological sensor that tracks emotional responses based on the electrical conductance of the skin. It helps users gain insights into their emotional well-being by detecting:
+
+- Emotional intensity and reactivity.
+- Calmness and relaxation levels.
+- Triggers of stress or anxiety.
+
+The processed data is sent to a **smartphone app**, allowing users to:
+- Monitor their emotional trends.
+- Compare reactions to specific events.
+- Manage stress and anxiety effectively.
+
+---
 
 # Ring Analytic Application Android
 ![image](https://github.com/user-attachments/assets/ac9ed2a3-4912-487f-9517-c9ace06a5915)
