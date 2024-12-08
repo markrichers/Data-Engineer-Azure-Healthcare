@@ -1,7 +1,7 @@
 # 📿 Company Moodring
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0347240b-2de3-4999-a66d-073849199949" alt="Moodring logo" width="200"/>
+  <img src="https://github.com/user-attachments/assets/0347240b-2de3-4999-a66d-073849199949" alt="Moodring logo" width="400"/>
 </p>
 
 ---
