@@ -4,6 +4,13 @@
 
 Moodmetric ring is an elegant piece of jewelry made up of biological sensor which can track emotional responses based on electrical conductance of skin. It detects emotional levels and monitors how strong a reaction is, or whether a person is calm or relaxed. The ring processes the data and sends it to the smartphone app which can be used to monitor stress or relaxation levels, and compare to particular events which trigger a strong emotional reactions so people can better manage stress and anxiety.
 
+# Ring Analytic Application Android
+![image](https://github.com/user-attachments/assets/ac9ed2a3-4912-487f-9517-c9ace06a5915)
+
+# Ring Equipment
+
+<img src="https://github.com/user-attachments/assets/60556dbb-fb12-4ee5-937a-75393e96d9c0" alt="image" width="300"/>
+
 # HealthCare-Mood-Project Goal: 
 Here is our Azure Data Analysis Project. 
 
@@ -30,11 +37,6 @@ Data scientist have the overview relate with Activities, this page shows a data 
   Dashboard 3 describe the multiple graphics relate more on SCL and Weather. It will be a boxplot and the SCL comparison with another factor. We also add the Average of SCL, and Sum of all Precipitation affect to the walking number of user. The Time Strip meanwhile is the hour from 1 to 24 hour per day and show the appearance of data in there. 
 Future: Dashboard can be iterated depend on the demand of client, and the more grow data-set might make the granular impact to the data quality it-self however graph will stable for long-term which doesn’t need to change. Dashboard was made for scientist with the vision possible to observe many user_id data performance. 
 
-# Ring Analytic Application Android
-![image](https://github.com/user-attachments/assets/ac9ed2a3-4912-487f-9517-c9ace06a5915)
 
-# Ring Equipment
-
-<img src="https://github.com/user-attachments/assets/60556dbb-fb12-4ee5-937a-75393e96d9c0" alt="image" width="300"/>
 
 
